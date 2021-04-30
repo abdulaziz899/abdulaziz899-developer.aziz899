@@ -9,13 +9,14 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...MERN Stack Website
+-  🔭 I’m quickly learner any programming language!
 - 🌱 I’m currently learning ...more about backend!
 - 👯 I’m looking to collaborate on ...any interesting project
 - 🤔 I’m looking for help with Aws
 - 💬 Ask me about ...anything
-- 📫 How to reach me: ...[my_Website]
+- 📫 How to reach me: ...[develper.aziz899]
 - 😄 Pronouns: ...He / Him
-- 🥅 2021 Goals: Improve Php,Mysql, Node.js,express.js
+- 🥅 2021 Goals: Improve java,Php,Mysql, c++,Node.js,express.js
 -->
 ### Connect with me:
 
